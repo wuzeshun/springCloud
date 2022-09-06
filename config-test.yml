@@ -5,5 +5,5 @@ spring:
     active: test
   cloud:
     config:
-      info: main branth test version 3.0
+      info: main branth test version 3.5
 
